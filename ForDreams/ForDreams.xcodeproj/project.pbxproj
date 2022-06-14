@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		F8DD36CD2858DAE2002CE598 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8DD36CC2858DAE2002CE598 /* main.swift */; };
 		F8DD36E02858DC5B002CE598 /* xiapi_01.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8DD36DF2858DC5B002CE598 /* xiapi_01.swift */; };
+		F8DD36E42858EC28002CE598 /* xiapi_02.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8DD36E32858EC28002CE598 /* xiapi_02.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		F8DD36C92858DAE2002CE598 /* ForDreams */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ForDreams; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8DD36CC2858DAE2002CE598 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		F8DD36DF2858DC5B002CE598 /* xiapi_01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xiapi_01.swift; sourceTree = "<group>"; };
+		F8DD36E32858EC28002CE598 /* xiapi_02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xiapi_02.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 			isa = PBXGroup;
 			children = (
 				F8DD36DE2858DC0C002CE598 /* 01_LRU缓存 */,
+				F8DD36E22858EBF3002CE598 /* 02_可被三整除的最大和 */,
 			);
 			path = "01_虾皮";
 			sourceTree = "<group>";
@@ -153,6 +156,14 @@
 			path = "01_LRU缓存";
 			sourceTree = "<group>";
 		};
+		F8DD36E22858EBF3002CE598 /* 02_可被三整除的最大和 */ = {
+			isa = PBXGroup;
+			children = (
+				F8DD36E32858EC28002CE598 /* xiapi_02.swift */,
+			);
+			path = "02_可被三整除的最大和";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -210,6 +221,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F8DD36E42858EC28002CE598 /* xiapi_02.swift in Sources */,
 				F8DD36E02858DC5B002CE598 /* xiapi_01.swift in Sources */,
 				F8DD36CD2858DAE2002CE598 /* main.swift in Sources */,
 			);
