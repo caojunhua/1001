@@ -9,6 +9,6 @@ import Foundation
 
 print("Hello, World!")
 
-let nums = [3,2,3,1,2,4,5,5,6], k = 4
-let res = xiapi_04().findKthLargest(nums, k)
+let days = [1,4,6,7,8,20], costs = [2,7,15]
+let res = xiapi_05().mincostTickets(days, costs)
 print("res--",res)
