@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		F84872AE285F7FE200C8B485 /* xiapi_06.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84872AD285F7FE200C8B485 /* xiapi_06.swift */; };
+		F84872B3285F84B800C8B485 /* xiapi_07.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84872B2285F84B800C8B485 /* xiapi_07.swift */; };
 		F8DD36CD2858DAE2002CE598 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8DD36CC2858DAE2002CE598 /* main.swift */; };
 		F8DD36E02858DC5B002CE598 /* xiapi_01.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8DD36DF2858DC5B002CE598 /* xiapi_01.swift */; };
 		F8DD36E42858EC28002CE598 /* xiapi_02.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8DD36E32858EC28002CE598 /* xiapi_02.swift */; };
@@ -30,6 +31,7 @@
 
 /* Begin PBXFileReference section */
 		F84872AD285F7FE200C8B485 /* xiapi_06.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xiapi_06.swift; sourceTree = "<group>"; };
+		F84872B2285F84B800C8B485 /* xiapi_07.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xiapi_07.swift; sourceTree = "<group>"; };
 		F8DD36C92858DAE2002CE598 /* ForDreams */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ForDreams; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8DD36CC2858DAE2002CE598 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		F8DD36DF2858DC5B002CE598 /* xiapi_01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xiapi_01.swift; sourceTree = "<group>"; };
@@ -56,6 +58,14 @@
 				F84872AD285F7FE200C8B485 /* xiapi_06.swift */,
 			);
 			path = "06_岛屿数量";
+			sourceTree = "<group>";
+		};
+		F84872B1285F84A000C8B485 /* 07_两数之和 */ = {
+			isa = PBXGroup;
+			children = (
+				F84872B2285F84B800C8B485 /* xiapi_07.swift */,
+			);
+			path = "07_两数之和";
 			sourceTree = "<group>";
 		};
 		F8DD36C02858DAE2002CE598 = {
@@ -95,6 +105,7 @@
 		F8DD36D42858DB0C002CE598 /* 01_虾皮 */ = {
 			isa = PBXGroup;
 			children = (
+				F84872B1285F84A000C8B485 /* 07_两数之和 */,
 				F84872AC285F7FCC00C8B485 /* 06_岛屿数量 */,
 				F8DD36F1285B8C49002CE598 /* 05_最低票价 */,
 				F8DD36EA285A2D10002CE598 /* 04_数组中第K个最大元素 */,
@@ -267,6 +278,7 @@
 			files = (
 				F8DD36F3285B8C67002CE598 /* xiapi_05.swift in Sources */,
 				F8DD36EC285A2D51002CE598 /* xiapi_04.swift in Sources */,
+				F84872B3285F84B800C8B485 /* xiapi_07.swift in Sources */,
 				F8DD36E42858EC28002CE598 /* xiapi_02.swift in Sources */,
 				F84872AE285F7FE200C8B485 /* xiapi_06.swift in Sources */,
 				F8DD36E02858DC5B002CE598 /* xiapi_01.swift in Sources */,

@@ -6,7 +6,9 @@
 //
 
 import Foundation
-
+/**
+ DFS深度优先搜索
+ */
 class xiapi_06 {
     var dirs = [[-1,0],[1,0],[0,-1],[0,1]]
     func numIslands(_ grid: [[Character]]) -> Int {
