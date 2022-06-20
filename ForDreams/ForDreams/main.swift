@@ -9,6 +9,6 @@ import Foundation
 
 print("Hello, World!")
 
-let days = [1,4,6,7,8,20], costs = [2,7,15]
-let res = xiapi_05().mincostTickets(days, costs)
+var nums1 = [1,2,3,0,0,0], m = 3, nums2 = [2,5,6], n = 3
+let res = xiapi_08().merge(&nums1, m, nums2, n)
 print("res--",res)
