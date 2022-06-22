@@ -9,6 +9,6 @@ import Foundation
 
 print("Hello, World!")
 
-var nums1 = [1,2,3,0,0,0], m = 3, nums2 = [2,5,6], n = 3
-let res = xiapi_08().merge(&nums1, m, nums2, n)
+var words = ["a","abc","aba",""]
+let res = xiapi_09().palindromePairs(words)
 print("res--",res)
