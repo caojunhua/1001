@@ -3,4 +3,118 @@
    uuid = "6A35B0DA-05EB-4260-AF4F-BB2DD3ABF985"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67CF4D69-CF1D-49A1-A64D-7B02BF263A8C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ForDreams/10_&#x8138;&#x4e66;/01_&#x79fb;&#x9664;&#x65e0;&#x6548;&#x7684;&#x62ec;&#x53f7;/facebook_01.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "minRemoveToMakeValid(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA9CE0EC-DE55-4D20-982A-DD303049DBAC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ForDreams/10_&#x8138;&#x4e66;/01_&#x79fb;&#x9664;&#x65e0;&#x6548;&#x7684;&#x62ec;&#x53f7;/facebook_01.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "minRemoveToMakeValid(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "62CD9F62-ABA6-4FBF-A53B-C5FF4AB0C260"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ForDreams/10_&#x8138;&#x4e66;/01_&#x79fb;&#x9664;&#x65e0;&#x6548;&#x7684;&#x62ec;&#x53f7;/facebook_01.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "minRemoveToMakeValid(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ABE191FA-89C4-49AB-9957-890FDB197B99"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ForDreams/10_&#x8138;&#x4e66;/01_&#x79fb;&#x9664;&#x65e0;&#x6548;&#x7684;&#x62ec;&#x53f7;/facebook_01.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "minRemoveToMakeValid(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "22E590ED-E6D4-4CC2-939C-C08EDC9CE585"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ForDreams/10_&#x8138;&#x4e66;/01_&#x79fb;&#x9664;&#x65e0;&#x6548;&#x7684;&#x62ec;&#x53f7;/facebook_01.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "minRemoveToMakeValid(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69E6B575-DE08-4A50-A8F7-06FB4B8C0042"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ForDreams/10_&#x8138;&#x4e66;/01_&#x79fb;&#x9664;&#x65e0;&#x6548;&#x7684;&#x62ec;&#x53f7;/facebook_01.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "minRemoveToMakeValid(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA2A75D6-51DE-4E15-8BD9-E191A4756C7F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ForDreams/10_&#x8138;&#x4e66;/01_&#x79fb;&#x9664;&#x65e0;&#x6548;&#x7684;&#x62ec;&#x53f7;/facebook_01.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "minRemoveToMakeValid(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>

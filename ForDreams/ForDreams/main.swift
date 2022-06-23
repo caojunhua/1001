@@ -8,7 +8,7 @@
 import Foundation
 
 print("Hello, World!")
-
-var s = "abcabcbb"
-let res = xiapi_11().lengthOfLongestSubstring(s)
+//"lee(t(c)o)de)" // "a)b(c)d" //"(a(b(c)d)" //"())()((("
+var s = "())()((("
+let res = facebook_01().minRemoveToMakeValid(s)
 print("res--",res)
