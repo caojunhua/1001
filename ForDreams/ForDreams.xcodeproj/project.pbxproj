@@ -12,6 +12,7 @@
 		F84872B82860C5EA00C8B485 /* xiapi_08.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84872B72860C5EA00C8B485 /* xiapi_08.swift */; };
 		F84872BD286223BF00C8B485 /* xiapi_09.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84872BC286223BF00C8B485 /* xiapi_09.swift */; };
 		F84872C12863614500C8B485 /* xiapi10.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84872C02863614500C8B485 /* xiapi10.swift */; };
+		F84872C62864A06500C8B485 /* xiapi_11.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84872C52864A06500C8B485 /* xiapi_11.swift */; };
 		F8DD36CD2858DAE2002CE598 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8DD36CC2858DAE2002CE598 /* main.swift */; };
 		F8DD36E02858DC5B002CE598 /* xiapi_01.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8DD36DF2858DC5B002CE598 /* xiapi_01.swift */; };
 		F8DD36E42858EC28002CE598 /* xiapi_02.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8DD36E32858EC28002CE598 /* xiapi_02.swift */; };
@@ -38,6 +39,7 @@
 		F84872B72860C5EA00C8B485 /* xiapi_08.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xiapi_08.swift; sourceTree = "<group>"; };
 		F84872BC286223BF00C8B485 /* xiapi_09.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xiapi_09.swift; sourceTree = "<group>"; };
 		F84872C02863614500C8B485 /* xiapi10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xiapi10.swift; sourceTree = "<group>"; };
+		F84872C52864A06500C8B485 /* xiapi_11.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xiapi_11.swift; sourceTree = "<group>"; };
 		F8DD36C92858DAE2002CE598 /* ForDreams */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ForDreams; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8DD36CC2858DAE2002CE598 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		F8DD36DF2858DC5B002CE598 /* xiapi_01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xiapi_01.swift; sourceTree = "<group>"; };
@@ -98,6 +100,14 @@
 			path = "10_中序后序构造二叉树";
 			sourceTree = "<group>";
 		};
+		F84872C428649FDC00C8B485 /* 11_无重复字符的最长子串 */ = {
+			isa = PBXGroup;
+			children = (
+				F84872C52864A06500C8B485 /* xiapi_11.swift */,
+			);
+			path = "11_无重复字符的最长子串";
+			sourceTree = "<group>";
+		};
 		F8DD36C02858DAE2002CE598 = {
 			isa = PBXGroup;
 			children = (
@@ -135,6 +145,7 @@
 		F8DD36D42858DB0C002CE598 /* 01_虾皮 */ = {
 			isa = PBXGroup;
 			children = (
+				F84872C428649FDC00C8B485 /* 11_无重复字符的最长子串 */,
 				F84872BF2863611600C8B485 /* 10_中序后序构造二叉树 */,
 				F84872BB2862239C00C8B485 /* 09_回文对 */,
 				F84872B62860C5D200C8B485 /* 08_合并两个有序数组 */,
@@ -314,6 +325,7 @@
 				F8DD36F3285B8C67002CE598 /* xiapi_05.swift in Sources */,
 				F8DD36EC285A2D51002CE598 /* xiapi_04.swift in Sources */,
 				F84872B3285F84B800C8B485 /* xiapi_07.swift in Sources */,
+				F84872C62864A06500C8B485 /* xiapi_11.swift in Sources */,
 				F8DD36E42858EC28002CE598 /* xiapi_02.swift in Sources */,
 				F84872AE285F7FE200C8B485 /* xiapi_06.swift in Sources */,
 				F8DD36E02858DC5B002CE598 /* xiapi_01.swift in Sources */,
