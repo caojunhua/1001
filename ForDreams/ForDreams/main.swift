@@ -9,6 +9,8 @@ import Foundation
 
 print("Hello, World!")
 //"lee(t(c)o)de)" // "a)b(c)d" //"(a(b(c)d)" //"())()((("
-var s = "())()((("
-let res = facebook_01().minRemoveToMakeValid(s)
+var s = "abc"
+//    "aguokepatgbnvfqmgml cupuufxoohdfpgjdmysgvhmvffcnqxj jxqncffvmhvgsymdjgpfdhooxfuupucu lmgmqfvnbgtapekouga"
+//"puufxoohdfpgjdmysgvhmvffcnqxjjxqncffvmhvgsymdjgpfdhooxfuupuculmgmqfvnbgtapek"
+let res = facebook02().validPalindrome(s)
 print("res--",res)
