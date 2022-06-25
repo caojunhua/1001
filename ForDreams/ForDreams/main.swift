@@ -8,9 +8,6 @@
 import Foundation
 
 print("Hello, World!")
-//"lee(t(c)o)de)" // "a)b(c)d" //"(a(b(c)d)" //"())()((("
-var s = "abc"
-//    "aguokepatgbnvfqmgml cupuufxoohdfpgjdmysgvhmvffcnqxj jxqncffvmhvgsymdjgpfdhooxfuupucu lmgmqfvnbgtapekouga"
-//"puufxoohdfpgjdmysgvhmvffcnqxjjxqncffvmhvgsymdjgpfdhooxfuupuculmgmqfvnbgtapek"
-let res = facebook02().validPalindrome(s)
+let points = [[6,10],[-3,3],[-2,5],[0,2]], k = 3
+let res = facebook03().kClosest(points, k)
 print("res--",res)

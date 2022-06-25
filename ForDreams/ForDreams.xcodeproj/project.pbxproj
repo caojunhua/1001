@@ -16,6 +16,7 @@
 		F84872CB2864BA9E00C8B485 /* xiapi_12.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84872CA2864BA9E00C8B485 /* xiapi_12.swift */; };
 		F84872CF2864C17D00C8B485 /* facebook_01.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84872CE2864C17D00C8B485 /* facebook_01.swift */; };
 		F84872D42865FE1400C8B485 /* facebook02.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84872D32865FE1400C8B485 /* facebook02.swift */; };
+		F84872D92866A00D00C8B485 /* facebook03.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84872D82866A00D00C8B485 /* facebook03.swift */; };
 		F8DD36CD2858DAE2002CE598 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8DD36CC2858DAE2002CE598 /* main.swift */; };
 		F8DD36E02858DC5B002CE598 /* xiapi_01.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8DD36DF2858DC5B002CE598 /* xiapi_01.swift */; };
 		F8DD36E42858EC28002CE598 /* xiapi_02.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8DD36E32858EC28002CE598 /* xiapi_02.swift */; };
@@ -46,6 +47,7 @@
 		F84872CA2864BA9E00C8B485 /* xiapi_12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xiapi_12.swift; sourceTree = "<group>"; };
 		F84872CE2864C17D00C8B485 /* facebook_01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = facebook_01.swift; sourceTree = "<group>"; };
 		F84872D32865FE1400C8B485 /* facebook02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = facebook02.swift; sourceTree = "<group>"; };
+		F84872D82866A00D00C8B485 /* facebook03.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = facebook03.swift; sourceTree = "<group>"; };
 		F8DD36C92858DAE2002CE598 /* ForDreams */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ForDreams; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8DD36CC2858DAE2002CE598 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		F8DD36DF2858DC5B002CE598 /* xiapi_01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xiapi_01.swift; sourceTree = "<group>"; };
@@ -136,6 +138,14 @@
 				F84872D32865FE1400C8B485 /* facebook02.swift */,
 			);
 			path = "02_ 验证回文字符串 Ⅱ";
+			sourceTree = "<group>";
+		};
+		F84872D728669FAC00C8B485 /* 03_最接近原点的K个点 */ = {
+			isa = PBXGroup;
+			children = (
+				F84872D82866A00D00C8B485 /* facebook03.swift */,
+			);
+			path = "03_最接近原点的K个点";
 			sourceTree = "<group>";
 		};
 		F8DD36C02858DAE2002CE598 = {
@@ -250,6 +260,7 @@
 		F8DD36DD2858DB71002CE598 /* 10_脸书 */ = {
 			isa = PBXGroup;
 			children = (
+				F84872D728669FAC00C8B485 /* 03_最接近原点的K个点 */,
 				F84872D22865FDFF00C8B485 /* 02_ 验证回文字符串 Ⅱ */,
 				F84872CD2864C15C00C8B485 /* 01_移除无效的括号 */,
 			);
@@ -361,6 +372,7 @@
 				F84872B3285F84B800C8B485 /* xiapi_07.swift in Sources */,
 				F84872C62864A06500C8B485 /* xiapi_11.swift in Sources */,
 				F8DD36E42858EC28002CE598 /* xiapi_02.swift in Sources */,
+				F84872D92866A00D00C8B485 /* facebook03.swift in Sources */,
 				F84872D42865FE1400C8B485 /* facebook02.swift in Sources */,
 				F84872AE285F7FE200C8B485 /* xiapi_06.swift in Sources */,
 				F8DD36E02858DC5B002CE598 /* xiapi_01.swift in Sources */,
