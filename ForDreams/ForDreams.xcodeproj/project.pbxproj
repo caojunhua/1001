@@ -20,6 +20,7 @@
 		F84872DE2866FD1800C8B485 /* facebook04.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84872DD2866FD1800C8B485 /* facebook04.swift */; };
 		F848731B286A6B3F00C8B485 /* facebook05.swift in Sources */ = {isa = PBXBuildFile; fileRef = F848731A286A6B3F00C8B485 /* facebook05.swift */; };
 		F8915BC02880648500AD9B4F /* DFSBFS.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8915BBF2880648500AD9B4F /* DFSBFS.swift */; };
+		F8B560C32885957300D3CEC9 /* facebook06.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B560C22885957300D3CEC9 /* facebook06.swift */; };
 		F8DD36CD2858DAE2002CE598 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8DD36CC2858DAE2002CE598 /* main.swift */; };
 		F8DD36E02858DC5B002CE598 /* xiapi_01.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8DD36DF2858DC5B002CE598 /* xiapi_01.swift */; };
 		F8DD36E42858EC28002CE598 /* xiapi_02.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8DD36E32858EC28002CE598 /* xiapi_02.swift */; };
@@ -54,6 +55,7 @@
 		F84872DD2866FD1800C8B485 /* facebook04.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = facebook04.swift; sourceTree = "<group>"; };
 		F848731A286A6B3F00C8B485 /* facebook05.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = facebook05.swift; sourceTree = "<group>"; };
 		F8915BBF2880648500AD9B4F /* DFSBFS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DFSBFS.swift; sourceTree = "<group>"; };
+		F8B560C22885957300D3CEC9 /* facebook06.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = facebook06.swift; sourceTree = "<group>"; };
 		F8DD36C92858DAE2002CE598 /* ForDreams */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ForDreams; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8DD36CC2858DAE2002CE598 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		F8DD36DF2858DC5B002CE598 /* xiapi_01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xiapi_01.swift; sourceTree = "<group>"; };
@@ -186,6 +188,14 @@
 			path = 01_BFS_DFS;
 			sourceTree = "<group>";
 		};
+		F8B560BF2885952000D3CEC9 /* 06_和为K的子数组 */ = {
+			isa = PBXGroup;
+			children = (
+				F8B560C22885957300D3CEC9 /* facebook06.swift */,
+			);
+			path = "06_和为K的子数组";
+			sourceTree = "<group>";
+		};
 		F8DD36C02858DAE2002CE598 = {
 			isa = PBXGroup;
 			children = (
@@ -205,7 +215,6 @@
 		F8DD36CB2858DAE2002CE598 /* ForDreams */ = {
 			isa = PBXGroup;
 			children = (
-				F8915BBD2880643900AD9B4F /* 11_必会题 */,
 				F8DD36D42858DB0C002CE598 /* 01_虾皮 */,
 				F8DD36D52858DB18002CE598 /* 02_字节 */,
 				F8DD36D62858DB2A002CE598 /* 03_华为 */,
@@ -216,6 +225,7 @@
 				F8DD36DB2858DB5E002CE598 /* 08_亚马逊 */,
 				F8DD36DC2858DB69002CE598 /* 09_百度 */,
 				F8DD36DD2858DB71002CE598 /* 10_脸书 */,
+				F8915BBD2880643900AD9B4F /* 11_必会题 */,
 				F8DD36CC2858DAE2002CE598 /* main.swift */,
 			);
 			path = ForDreams;
@@ -299,6 +309,7 @@
 		F8DD36DD2858DB71002CE598 /* 10_脸书 */ = {
 			isa = PBXGroup;
 			children = (
+				F8B560BF2885952000D3CEC9 /* 06_和为K的子数组 */,
 				F8487319286A6B2600C8B485 /* 05_二进制求和 */,
 				F84872DC2866FD0100C8B485 /* 04_删除无效的括号 */,
 				F84872D728669FAC00C8B485 /* 03_最接近原点的K个点 */,
@@ -408,6 +419,7 @@
 				F84872BD286223BF00C8B485 /* xiapi_09.swift in Sources */,
 				F84872B82860C5EA00C8B485 /* xiapi_08.swift in Sources */,
 				F8DD36F3285B8C67002CE598 /* xiapi_05.swift in Sources */,
+				F8B560C32885957300D3CEC9 /* facebook06.swift in Sources */,
 				F8915BC02880648500AD9B4F /* DFSBFS.swift in Sources */,
 				F8DD36EC285A2D51002CE598 /* xiapi_04.swift in Sources */,
 				F84872CF2864C17D00C8B485 /* facebook_01.swift in Sources */,

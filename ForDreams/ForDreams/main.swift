@@ -8,6 +8,6 @@
 import Foundation
 
 print("Hello, World!")
-let a = "1010", b = "110"
-let res = facebook05().addBinary(a, b)
+let arr = [1,1,1],k = 2
+let res = facebook06().subarraySum(arr, k)
 print("res--",res)
