@@ -8,6 +8,6 @@
 import Foundation
 
 print("Hello, World!")
-let arr = [1,1,1],k = 2
-let res = facebook06().subarraySum(arr, k)
+let str = "0P"
+let res = facebook07().isPalindrome(str)
 print("res--",res)
