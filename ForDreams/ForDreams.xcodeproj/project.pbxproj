@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F80FB14D288993D4004D85BD /* Facebook08.swift in Sources */ = {isa = PBXBuildFile; fileRef = F80FB14C288993D4004D85BD /* Facebook08.swift */; };
 		F83CEEA22888356A00B45DF6 /* facebook07.swift in Sources */ = {isa = PBXBuildFile; fileRef = F83CEEA12888356A00B45DF6 /* facebook07.swift */; };
 		F84872AE285F7FE200C8B485 /* xiapi_06.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84872AD285F7FE200C8B485 /* xiapi_06.swift */; };
 		F84872B3285F84B800C8B485 /* xiapi_07.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84872B2285F84B800C8B485 /* xiapi_07.swift */; };
@@ -43,6 +44,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		F80FB14C288993D4004D85BD /* Facebook08.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Facebook08.swift; sourceTree = "<group>"; };
 		F83CEEA12888356A00B45DF6 /* facebook07.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = facebook07.swift; sourceTree = "<group>"; };
 		F84872AD285F7FE200C8B485 /* xiapi_06.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xiapi_06.swift; sourceTree = "<group>"; };
 		F84872B2285F84B800C8B485 /* xiapi_07.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xiapi_07.swift; sourceTree = "<group>"; };
@@ -78,6 +80,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		F80FB14B288993B0004D85BD /* 08_除自身以外数组的乘积 */ = {
+			isa = PBXGroup;
+			children = (
+				F80FB14C288993D4004D85BD /* Facebook08.swift */,
+			);
+			path = "08_除自身以外数组的乘积";
+			sourceTree = "<group>";
+		};
 		F83CEEA02888354A00B45DF6 /* 07_验证回文串 */ = {
 			isa = PBXGroup;
 			children = (
@@ -319,6 +329,7 @@
 		F8DD36DD2858DB71002CE598 /* 10_脸书 */ = {
 			isa = PBXGroup;
 			children = (
+				F80FB14B288993B0004D85BD /* 08_除自身以外数组的乘积 */,
 				F83CEEA02888354A00B45DF6 /* 07_验证回文串 */,
 				F8B560BF2885952000D3CEC9 /* 06_和为K的子数组 */,
 				F8487319286A6B2600C8B485 /* 05_二进制求和 */,
@@ -430,6 +441,7 @@
 				F84872BD286223BF00C8B485 /* xiapi_09.swift in Sources */,
 				F84872B82860C5EA00C8B485 /* xiapi_08.swift in Sources */,
 				F8DD36F3285B8C67002CE598 /* xiapi_05.swift in Sources */,
+				F80FB14D288993D4004D85BD /* Facebook08.swift in Sources */,
 				F8B560C32885957300D3CEC9 /* facebook06.swift in Sources */,
 				F8915BC02880648500AD9B4F /* DFSBFS.swift in Sources */,
 				F8DD36EC285A2D51002CE598 /* xiapi_04.swift in Sources */,

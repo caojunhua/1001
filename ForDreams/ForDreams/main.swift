@@ -8,6 +8,6 @@
 import Foundation
 
 print("Hello, World!")
-let str = "0P"
-let res = facebook07().isPalindrome(str)
+let nums = [1,2,3,4]
+let res = Facebook08().productExceptSelf(nums)
 print("res--",res)
