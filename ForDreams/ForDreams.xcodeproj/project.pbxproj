@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F805C878288C3751007E010E /* Facebook10.swift in Sources */ = {isa = PBXBuildFile; fileRef = F805C877288C3751007E010E /* Facebook10.swift */; };
 		F80FB14D288993D4004D85BD /* Facebook08.swift in Sources */ = {isa = PBXBuildFile; fileRef = F80FB14C288993D4004D85BD /* Facebook08.swift */; };
 		F80FB150288AF0F7004D85BD /* Facebook09.swift in Sources */ = {isa = PBXBuildFile; fileRef = F80FB14F288AF0F7004D85BD /* Facebook09.swift */; };
 		F83CEEA22888356A00B45DF6 /* facebook07.swift in Sources */ = {isa = PBXBuildFile; fileRef = F83CEEA12888356A00B45DF6 /* facebook07.swift */; };
@@ -45,6 +46,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		F805C877288C3751007E010E /* Facebook10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Facebook10.swift; sourceTree = "<group>"; };
 		F80FB14C288993D4004D85BD /* Facebook08.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Facebook08.swift; sourceTree = "<group>"; };
 		F80FB14F288AF0F7004D85BD /* Facebook09.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Facebook09.swift; sourceTree = "<group>"; };
 		F83CEEA12888356A00B45DF6 /* facebook07.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = facebook07.swift; sourceTree = "<group>"; };
@@ -82,6 +84,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		F805C876288C3730007E010E /* 10_二叉搜索树的范围和 */ = {
+			isa = PBXGroup;
+			children = (
+				F805C877288C3751007E010E /* Facebook10.swift */,
+			);
+			path = "10_二叉搜索树的范围和";
+			sourceTree = "<group>";
+		};
 		F80FB14B288993B0004D85BD /* 08_除自身以外数组的乘积 */ = {
 			isa = PBXGroup;
 			children = (
@@ -339,6 +349,7 @@
 		F8DD36DD2858DB71002CE598 /* 10_脸书 */ = {
 			isa = PBXGroup;
 			children = (
+				F805C876288C3730007E010E /* 10_二叉搜索树的范围和 */,
 				F80FB14E288AF0DD004D85BD /* 09_二叉树的垂直遍历 */,
 				F80FB14B288993B0004D85BD /* 08_除自身以外数组的乘积 */,
 				F83CEEA02888354A00B45DF6 /* 07_验证回文串 */,
@@ -455,6 +466,7 @@
 				F80FB14D288993D4004D85BD /* Facebook08.swift in Sources */,
 				F80FB150288AF0F7004D85BD /* Facebook09.swift in Sources */,
 				F8B560C32885957300D3CEC9 /* facebook06.swift in Sources */,
+				F805C878288C3751007E010E /* Facebook10.swift in Sources */,
 				F8915BC02880648500AD9B4F /* DFSBFS.swift in Sources */,
 				F8DD36EC285A2D51002CE598 /* xiapi_04.swift in Sources */,
 				F84872CF2864C17D00C8B485 /* facebook_01.swift in Sources */,
