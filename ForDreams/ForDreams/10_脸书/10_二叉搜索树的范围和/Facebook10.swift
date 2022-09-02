@@ -12,9 +12,16 @@ import Foundation
  */
 class Facebook10 {
     var sum = 0
+    var queue: [TreeNode] = [TreeNode]()
     
     func rangeSumBST(_ root: TreeNode?, _ low: Int, _ high: Int) -> Int {
-        dfs(root: root, low: low, high: high)
+//        dfs(root: root, low: low, high: high)
+        if root == nil {
+            return sum
+        }
+        
+        bfs(root: root, low: low, high: high)
+        
         return sum
     }
     
@@ -27,5 +34,28 @@ class Facebook10 {
         }
         dfs(root: root?.left, low: low, high: high)
         dfs(root: root?.right, low: low, high: high)
+    }
+    
+    func bfs(root: TreeNode?, low: Int, high: Int) {
+        if root != nil {
+            queue.append(root!)
+        }
+        
+        while !queue.isEmpty {
+            let node = queue.removeFirst()
+            let value = node.val
+            
+            if value >= low && value <= high {
+                sum += value
+            }
+            
+            if node.left != nil {
+                queue.append(node.left!)
+            }
+            
+            if node.right != nil {
+                queue.append(node.right!)
+            }
+        }
     }
 }
